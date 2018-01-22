@@ -11,4 +11,4 @@ In the .txt file, linebreaks have been removed except to separate definitions. T
 
 The front matter and the appendices have been removed from this version, as have the quotations sprinkled thoughout the definitions.
 
-The free online version of this dictionary is located at https://dictionary.law.com/Default.aspx and allows you to look up legal terms and definitions.
+The free online version of this dictionary is located at https://dictionary.law.com/Default.aspx and allows you tointeractviely look up legal terms and definitions one at a time.
