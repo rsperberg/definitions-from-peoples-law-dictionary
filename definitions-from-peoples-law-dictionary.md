@@ -1854,7 +1854,7 @@ express contract — n. a contract in which all elements are specifically stated
 
 expropriation — n. a taking of property or rights by governmental authority such as eminent domain, possibly including an emergency situation, such as taking a person’s truck or bulldozer to build a levee during a flood. In such a case just compensation eventually must be paid to the owner, who can make a claim against the taker. (See: eminent domain)
 
-_ex rel_ — conj. abbreviation for Latin _ex relatione_, meaning “upon being related” or “upon information,” used in the title of a legal proceeding filed by a state Attorney General (or the federal Department of Justice) on behalf of the government, on the instigation of a private person, who needs the state to enforce the rights of himself/herself and the public. For example, the caption would read: _The State of Tennessee ex rel. Archie Johnson v. Hardy Products_.
+_ex rel._ — conj. abbreviation for Latin _ex relatione_, meaning “upon being related” or “upon information,” used in the title of a legal proceeding filed by a state Attorney General (or the federal Department of Justice) on behalf of the government, on the instigation of a private person, who needs the state to enforce the rights of himself/herself and the public. For example, the caption would read: _The State of Tennessee ex rel. Archie Johnson v. Hardy Products_.
 
 extension — n. granting of a specific amount of extra time to make a payment, file a legal document after the date due or continue a lease after the original expiration of the term.
 
